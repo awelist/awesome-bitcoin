@@ -101,6 +101,7 @@
 
 ## Learning Resources
 
+- [BitcoinLogbook](https://bitcoinlogbook.com/) - An educational Bitcoin investment journal with a historical dollar-cost averaging calculator and strategy comparisons.
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - An open-source book by Andreas M. Antonopoulos.
 - [Bitcoin Optech](https://bitcoinops.org/) - A resource for Bitcoin developers and technical updates.
 - [Bitcoin and Cryptocurrency Technologies (Coursera)](https://www.coursera.org/learn/cryptocurrency) - A free course on Bitcoin and cryptocurrency technologies.
